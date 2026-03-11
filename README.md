@@ -63,7 +63,7 @@ This loss function adjusts the contribution of each class based on the number of
 ```
 Rice-Leaf-Disease-Classification-ViT
 │
-├── notebooks
+├── code
 │   ├── 3_class_dataset_training.ipynb
 │   ├── 3_class_output.ipynb
 │   ├── 5_class_dataset_training.ipynb
