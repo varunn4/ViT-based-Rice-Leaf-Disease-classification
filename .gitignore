@@ -1,0 +1,47 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+
+# Python environment files
+.env
+.env.*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+
+# Dataset files (optional – if dataset is large)
+data/
+dataset/
+Datasplit_5/
+Datasplit_3/
+
+# Model weights (optional)
+*.pth
+*.pt
+
+# IDE files
+.vscode/
+.idea/
+
+# Build files
+build/
+dist/
+*.egg-info/
